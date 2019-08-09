@@ -9,6 +9,6 @@ Current issues:
 
 • Some words either have a mistake, missing tashkeel, or need to be verified that are correct are highlighted in yellow.
 
-• Sentences end with 'أن' and missing tashkeel are highlighed in blue.
+• Sentences end with 'أن' and missing tashkeel are highlighed in blue. They should either be 'أنْ' or 'أنَّ'
 
 • Page 58 is missing. I will be happy to add it if someone has access to the print and can send a photo of the missing page.
