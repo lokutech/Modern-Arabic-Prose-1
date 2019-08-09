@@ -7,8 +7,8 @@ I have rewritten this book for it to look good and be searchable. I have correct
 
 Current issues:
 
-Some words either have a mistake, or missing tashkeel, or need to be verified that are correct are highlighted in yellow.
+• Some words either have a mistake, missing tashkeel, or need to be verified that are correct are highlighted in yellow.
 
-Sentences end with '' and missing tashkeel are highlighed in blue.
+• Sentences end with '' and missing tashkeel are highlighed in blue.
 
-Page 58 is missing. I will be happy to add it if someone has access to the print and can send a photo of the missing page.
+• Page 58 is missing. I will be happy to add it if someone has access to the print and can send a photo of the missing page.
