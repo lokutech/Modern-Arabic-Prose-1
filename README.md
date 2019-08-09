@@ -5,6 +5,9 @@ ISBN-13: 978-0253395047
 
 I have rewritten this book for it to look good and be searchable. I have corrected many mistakes, typos on the way but I am sure there are still many to be fixed. That is way I am releasing it on github. I hope I can get some people to help me. 
 
+If you just want to read and enjoy, download the pdf. If you want to correct or make changes, download the .docx along with the fonts to display them properly.
+
+
 Current issues:
 
 • Some words either have a mistake, missing tashkeel, or need to be verified that are correct are highlighted in yellow.
